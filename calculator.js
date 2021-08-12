@@ -9,7 +9,7 @@ add(){
 }
 
 product(){
-    return this.a + this.b;
+    return this.a * this.b;
 }
 }
 module.exports = Calculator; 
